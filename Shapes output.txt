@@ -1,0 +1,7 @@
+Enter values :
+100
+1000
+Area of Rectangle is 100000.0
+Area of Triangle is 50000.0
+Area of Circle is 31428.572
+ 
