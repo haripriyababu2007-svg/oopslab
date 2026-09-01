@@ -1,0 +1,16 @@
+Main Thread and Generated Number is 12
+New Thread 12 is EVEN and Square of 12 is: 144
+ 
+Main Thread and Generated Number is 21
+New Thread 21 is ODD and Cube of 21 is: 9261
+ 
+Main Thread and Generated Number is 47
+New Thread 47 is ODD and Cube of 47 is: 103823
+ 
+Main Thread and Generated Number is 72
+New Thread 72 is EVEN and Square of 72 is: 5184
+ 
+Main Thread and Generated Number is 42
+New Thread 42 is EVEN and Square of 42 is: 1764
+ 
+ 
