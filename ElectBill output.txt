@@ -1,0 +1,15 @@
+Enter Consumer number = 67
+
+         Enter Consumer name = Hari
+
+         Enter the type of connection = domestic
+
+         Enter pre_month reading = 44
+
+         Enter current_month reading = 22
+
+         Customer name = Hari
+
+         Total units = -22.0
+
+         Total bill = Rs -22.0
